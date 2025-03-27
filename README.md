@@ -17,3 +17,8 @@ A database project inspired by Jahez, designed to simulate core components of a 
 - `Create+Insert.sql`: DDL and DML commands for tables and sample data
 - `ERD Diagram`: Describes entity relationships and structure
 
+## ERD Diagram
+
+The following diagram illustrates the structure and relationships between the database entities.
+
+![ERD Diagram](ERD.jpg)
